@@ -14,8 +14,32 @@ QoS<br><br>
 ![Image](https://github.com/user-attachments/assets/7d982db6-1971-4e21-afa5-6fe7c7547014) <br>
 
 4. Jelajahi apapun pada komputer anda, mau game, yt, dll. <br>
+contoh : <br>
 ![Image](https://github.com/user-attachments/assets/688d8fd9-68ce-4a92-a7f6-99c94d701e4c) <br>
 ![Image](https://github.com/user-attachments/assets/1f64766d-a57e-41bc-8f7c-69109b1e7d6a) <br>
 ![Image](https://github.com/user-attachments/assets/33e6fffd-1f98-4ad4-a960-191b4c3a72d4) <br>
 
-5. 
+5. Buka CMD untuk mengeping, ketik lp.dst== (isi ip yg ingin dimasukkan) <br>
+
+6. Pilih Statistics > capture file properties <br>
+![Image](https://github.com/user-attachments/assets/21ab61f5-a4ea-4537-b949-0618db71425c)<br>
+
+7. Bagian measurement adalah nilai-nilai parameter yg akan kita hitung<br>
+![Image](https://github.com/user-attachments/assets/deaf1829-21ae-4249-9c5a-536a0a79b392)<br>
+
+8. parameter perhitungan parameter & packet yg hilang <br>
+![Image](https://github.com/user-attachments/assets/41b08867-c4a4-49e8-989f-860f83f8dfe7) <br>
+
+9. Export file as CSV <br>
+![Image](https://github.com/user-attachments/assets/d784f3c0-7cb8-4d2b-b688-f13858178f02) <br>
+
+10. Rapikan datanya<br>
+![Image](https://github.com/user-attachments/assets/15ed09f6-ad47-43bd-9bfa-17c2526ce37c) <br>
+
+11. Inilah hasil hitungan total penundaan dan rata-rata penundaan <br>
+![Image](https://github.com/user-attachments/assets/5b36e706-8394-4610-8c18-c86590bdc935)<br><br>
+
+Kesimpulan <br>
+Hasil pengukuran QoS menunjukkan performa jaringan selama pengujian.
+Jika nilai packet loss tinggi, maka kualitas jaringan dianggap kurang baik,<br> sedangkan jika throughput tinggi dan jitter rendah, maka kualitas jaringan lebih stabil.
+Performa jaringan dapat ditingkatkan dengan optimasi koneksi WiFi,<br> seperti menggunakan frekuensi yang lebih stabil atau mengurangi interferensi sinyal.
